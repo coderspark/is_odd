@@ -18,10 +18,10 @@ Add the following to your `Cargo.toml` file:
 
 ```toml
 [dependencies]
-is_odd = "0.1.0"
+isodd = "0.1.0"
 ```
 
 Or with:
 ```
-cargo install is_odd
+cargo install isodd
 ```
