@@ -8,7 +8,7 @@ A lightweight Rust library that provides an `IsOdd` trait to determine whether v
 
 - **Generic Trait Implementation**: Works seamlessly with various numeric types (`i32`, `u32`, `i64`, `u64`, ect.).
 - **Simple and Intuitive**: Provides an easy-to-use API with the `is_odd` method.
-- **Blazingly Fast**: Uses modular arithmetic for fast oddness checks.
+- **Blazingly Fast🚀**: Uses modular arithmetic for fast oddness checks.
 
 ---
 
