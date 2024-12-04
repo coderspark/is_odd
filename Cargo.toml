@@ -2,5 +2,7 @@
 name = "is_odd"
 version = "0.1.0"
 edition = "2021"
+license = "GPL-3.0"
+description = "A blazingly fast lightweight rust library for checking if numbers are odd"
 
 [dependencies]
